@@ -22,5 +22,5 @@ A simple network-based IDS that detects abnormal connection activity in real-tim
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/mini-ids.git
+git clone 
 cd mini-ids
